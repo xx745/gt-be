@@ -1,5 +1,7 @@
-# gym-tracker
+# gym-tracker backend
 Simple app to record gym visits
+
+FRONTEND can be found at https://github.com/xx745/gt-fe
 
 ## Setup secrets
 ```
